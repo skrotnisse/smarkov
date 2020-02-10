@@ -1,10 +1,10 @@
-# Smarkov
+# SMarkov
 
-A Small Markov Chain calculator. This is a just-for-fun project made to try out Rust. 
+A small Markov Chain calculator. This is a just-for-fun project I made to try out Rust.
 
 ## Disclaimer
 
-Since this has just been a "quick test" app, there exists no docs or unit tests. Use it at your own risk. 
+Sorry, no docs nor unit tests. Use this thingy at your own risk!
 
 # Development setup
 
@@ -18,7 +18,10 @@ cargo build
 cargo run
 ```
 
-An example input-file can be found in the `/example_input` sub-directory.
+An example input-file can be found in the `/example_input` sub-directory:
+```
+cargo run -- example_input/poem.txt
+```
 
 ## Usage through CLI
 
