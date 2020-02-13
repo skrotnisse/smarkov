@@ -1,10 +1,10 @@
 # SMarkov
 
-A small Markov Chain calculator. This is a just-for-fun project I made to try out Rust.
+A small Markov Chain generator. This is a just-for-fun project I made to try out Rust.
 
 ## Disclaimer
 
-Sorry, no docs nor unit tests. Use this thingy at your own risk!
+Sorry, no docs nor tests. Use this thing at your own risk!
 
 # Development setup
 
